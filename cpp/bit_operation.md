@@ -4,7 +4,7 @@
     	unsigned short day_of_week: 3;  // [1, 7]
     	unsigned short day_of_month: 5; // [1, 31]
     	unsigned short month: 4;        // [1, 12]
-    	unsigned short year: 16;         // [0, 131071]
+    	unsigned short year: 16;        // [0, 131071]
     	unsigned short bc_or_ad: 1;     // [0, 1]
     };
 
